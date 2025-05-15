@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from .arbol_binario import ArbolBinario
+from arbol_binario import ArbolBinario
 
 
 class AppArbol:
